@@ -8,7 +8,7 @@ Was not able to show app on website
 
 ![error](https://github.com/rshaikh95/flask_6_api_management/assets/141374132/db18ba85-cb67-4116-906b-379082282907)
 
-1. First created function_app.py on Google Shell with code for a Get request using Azure Deployment
+1. First created app.py on Google Shell with code for a Get request using Azure Deployment
 
 ![Screenshot 2023-11-07 183801](https://github.com/rshaikh95/flask_6_api_management/assets/141374132/e05dc723-8f78-4d1c-bec8-3b9c0f909e82)
 
